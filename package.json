@@ -1,0 +1,14 @@
+{
+  "name": "ecs",
+  "version": "1.0.0",
+  "description": "Abstract ECS (Entity Component System) library built for JS/TS.",
+  "main": "dist/lib/index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "David Jenkins <djenkinsdev@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
